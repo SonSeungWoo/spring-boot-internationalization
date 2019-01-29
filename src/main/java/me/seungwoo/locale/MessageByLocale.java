@@ -13,7 +13,7 @@ import org.springframework.web.server.ServerWebExchange;
  * Time: 18:09
  */
 @Configuration
-public class MessageByLocaleService {
+public class MessageByLocale {
 
     @Autowired
     private MessageSource messageSource;
